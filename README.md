@@ -14,8 +14,23 @@
 
 # 💫 About Me:
 
-I am a dedicated Software Developer with a strong passion for building impactful and efficient solutions. Skilled in Java, Spring Boot, Hibernate, JSP, HTML, CSS, JavaScript, SQL, and more, I enjoy tackling challenges and learning new technologies to stay ahead in the ever-evolving tech world.
-My journey has been about constant growth—enhancing my technical skills, solving complex problems, and working on meaningful projects that combine creativity and functionality. I believe in continuous learning, teamwork, and contributing to projects that create real value.With a focus on clean, efficient code and a commitment to personal and professional growth, I’m excited to take on new challenges and make a positive impact in the software development field.
+👋 Hi there! I’m a **dedicated Software Developer** with a passion for building impactful and efficient solutions. My journey in tech has been all about learning, growing, and solving complex problems through technology. I thrive on continuous improvement, tackling challenges, and crafting clean, maintainable code that blends creativity with functionality.  
+
+With a strong focus on learning and innovation, I’m excited to take on new challenges and contribute meaningfully to the world of software development. 🚀  
+
+---
+
+### 🌟 What I’m Up To:
+- 🔭 Currently working on an **e-commerce website**  
+- 🌱 Exploring **Thymeleaf** to build dynamic and interactive web applications  
+- 📫 Reach me at **[workwithmas18@gmail.com](mailto:workwithmas18@gmail.com)**  
+- 📄 Know about my experiences: [**View My Resume**](https://drive.google.com/file/d/1IKxfmR6PjS5gNNsd5R4psc1SUWW6HYu3/view?usp=sharing)  
+
+---
+
+### 👩‍💻 Let’s Connect:  
+Check out my repositories to see what I’m building, breaking, and improving. Together, we can make the tech world a little brighter! 🌐✨  
+
 
 
 ## 🌐 Socials:
